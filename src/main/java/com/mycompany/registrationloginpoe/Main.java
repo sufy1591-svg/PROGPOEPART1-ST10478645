@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Sufyaan Bahadur
  *
- * Console-driven application for Part 1 - Registration and login feature.
+ *  Part 1 - Registration and login feature.
  * No GUI / JOptionPane is used, as required by the brief.
  */
 public class Main {

@@ -10,7 +10,7 @@ import java.util.Random;
  * @author Sufyaan Bahadur
  *
  * The Message class holds the details of a single QuickChat message and the
- * methods used to validate it, create its hash, and send, store or disregard it.
+ * methods used to validate it, create its hash, an.od send, store or disregard it.
  *
  * Reference (JSON storage):
  * The JSON structure and string escaping used in storeMessage() follow the

@@ -12,9 +12,8 @@ import java.util.Random;
  * The Message class holds the details of a single QuickChat message and the
  * methods used to validate it, create its hash, an.od send, store or disregard it.
  *
- * Reference (JSON storage):
- * The JSON structure and string escaping used in storeMessage() follow the
- * syntax rules in:
+ 
+
  * Bray, T. (ed.) 2017. The JavaScript Object Notation (JSON) Data Interchange
  * Format (RFC 8259). Internet Engineering Task Force. Available at:
  * https://www.rfc-editor.org/rfc/rfc8259 [Accessed 18 October 2026].

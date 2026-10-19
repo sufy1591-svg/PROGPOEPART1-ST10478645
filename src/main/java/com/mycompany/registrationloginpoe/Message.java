@@ -47,7 +47,7 @@ public class Message {
         this.messageText = messageText;
     }
 
-    //Method: generates a random ten-digit message  oID
+    //Method: generates a random ten-digit message  
     public static String generateMessageID() {
         Random rand = new Random();
         String id = "";

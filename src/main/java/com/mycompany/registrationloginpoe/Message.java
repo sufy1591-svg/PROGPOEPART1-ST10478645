@@ -11,7 +11,6 @@ import java.util.Random;
  *
  * The Message class holds the details of a single QuickChat message and the
  * methods used to validate it, create its hash, an.od send, store or disregard it.
- *
  
 
  * Bray, T. (ed.) 2017. The JavaScript Object Notation (JSON) Data Interchange

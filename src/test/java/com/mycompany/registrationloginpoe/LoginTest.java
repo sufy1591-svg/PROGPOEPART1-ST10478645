@@ -16,7 +16,7 @@ import static org.junit.jupiter.api.Assertions.*;
  */
 public class LoginTest {
 
-    //===== Username tests =====
+   
 
     @Test
     public void testCheckUserName_CorrectlyFormatted() {

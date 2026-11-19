@@ -86,7 +86,7 @@ public class Login {
     }
 
     //Method: verifies that the entered login details match the
-    //details captured at registration
+    //details captured at 
     public boolean loginUser(String enteredUserName, String enteredPassword) {
         loginSuccessful = userName.equals(enteredUserName) && password.equals(enteredPassword);
         return loginSuccessful;

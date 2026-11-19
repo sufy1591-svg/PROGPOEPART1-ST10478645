@@ -331,9 +331,9 @@ public class Message {
         return report;
     }
 
-    //=====================================================================
+   
     //JSON - writing the stored messages to a file and reading them back
-    //=====================================================================
+    
 
     //Method: writes the stored messages array to the JSON file
     public static void saveStoredMessages() {

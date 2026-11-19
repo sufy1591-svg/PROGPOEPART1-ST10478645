@@ -1,8 +1,18 @@
 [
   {
     "messageID": "0012345678",
-    "messageHash": "00:0:HITONIGHT",
+    "messageNumber": 0,
+    "sender": "sufyaan bahadur",
     "recipient": "+27718693002",
-    "message": "Hi Mike, can you join us for dinner tonight?"
+    "message": "Hi Mike, can you join us for dinner tonight?",
+    "flag": "Stored"
+  },
+  {
+    "messageID": "4748145685",
+    "messageNumber": 1,
+    "sender": "sufyaan bahadur",
+    "recipient": "+27838884567",
+    "message": "where are you",
+    "flag": "Stored"
   }
 ]

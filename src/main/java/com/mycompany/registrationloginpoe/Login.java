@@ -24,8 +24,8 @@ public class Login {
     private String firstName;
     private String lastName;
 
-    //Keeps track of the outcome of the most recent login attempt,
-    //so returnLoginStatus() knows which message to give back
+   
+    
     private boolean loginSuccessful;
 
     //Constructor - captures all the details entered at registration

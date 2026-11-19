@@ -210,9 +210,9 @@ public class Message {
         return messageIDs;
     }
 
-    //=====================================================================
+   
     //PART 3 - STORE DATA AND DISPLAY
-    //=====================================================================
+    
 
     //Method: puts a message into the correct array and records its hash and ID
     public static void addMessage(Message msg, String flag) {
